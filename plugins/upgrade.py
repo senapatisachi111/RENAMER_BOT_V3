@@ -16,10 +16,6 @@ async def upgrade(bot,update):
 	⚙ Daily Upload limit 50GB
 	⚙ Price Rs 80  🇮🇳/🌎 0.97$  per Month
 	
-	**VIP3**
-	⚙ Daily Upload limit 100GB
-	⚙ Price Rs 150  🇮🇳/🌎 1.81$  per Month
-	
 	
 	✪✪ 𝐏𝐚𝐲 𝐮𝐬𝐢𝐧𝐠 𝐔𝐏𝐈 𝐈𝐃 ```mrsns811@kotak```
 	
@@ -44,10 +40,6 @@ async def upgradecm(bot,message):
 	**VIP 2 **
 	⚙ Daily Upload limit 50GB
 	⚙ Price Rs 80  🇮🇳/🌎 0.97$  per Month
-	
-	**VIP3**
-	⚙ Daily Upload limit 100GB
-	⚙ Price Rs 150  🇮🇳/🌎 1.81$  per Month
 	
 	
 	✪✪ 𝐏𝐚𝐲 𝐮𝐬𝐢𝐧𝐠 𝐔𝐏𝐈 𝐈𝐃 ```mrsns811@kotak```
