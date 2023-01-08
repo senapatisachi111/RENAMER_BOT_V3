@@ -4,7 +4,7 @@ Supports 4GB Files
 
 ## Join Railway
 
-<a href="https://railway.app?referralCode=RFr_Ev">Join To Railway</a>
+<a href="https://railway.app?">Join To Railway</a>
 
 ## Configs 
 
