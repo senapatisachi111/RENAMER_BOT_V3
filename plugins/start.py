@@ -85,10 +85,10 @@ async def send_doc(client,message):
        	try:
        		await client.get_chat_member(update_channel, user_id)
        	except UserNotParticipant:
-       		await message.reply_text("**__You are not subscribed my channel__** ",
+       		await message.reply_text("**__You have not subscribed my channel yet__** ",
        		reply_to_message_id = message.id,
        		reply_markup = InlineKeyboardMarkup(
-       		[ [ InlineKeyboardButton("✪ 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 ✪" ,url=f"https://t.me/{update_channel}") ]   ]))
+       		[ [ InlineKeyboardButton("✠ 𝐌𝐀𝐈𝐍 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 ✠" ,url=f"https://t.me/{update_channel}") ]   ]))
        		return
        try:
            bot_data = find_one(int(botid))
